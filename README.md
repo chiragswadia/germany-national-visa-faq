@@ -1,4 +1,4 @@
-# Germany National (Employment) Visa FAQs :india: :de: 
+# Germany National Visa FAQs :india: :de: 
 
 _Last Updated Date - 16th November 2018_
 
@@ -6,6 +6,7 @@ I see a lot of repeated queries related to Employment Visa every day in differen
 
 > Note - I will try to keep the information updated as much as I can, but I'll be happy to accept changes and contributions to this repository if you feel any information is wrong and should be updated.
 
+## Employment Visa
 
 ### 1. How do I book an appointment for Employment Visa ?
 
@@ -60,3 +61,7 @@ Unfortunately, No. :sweat: If you call VFS, they will say that application is pe
 ### 11. I got an email from consulate saying "Your application has been decided upon. Please collect your passport". What does this mean ?
 
 In 95% of the cases, this means that your visa has been stamped on the passport. Congrats! :de:
+
+
+## Dependent / Family Re-Union Visa
+
