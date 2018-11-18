@@ -58,7 +58,7 @@ For employment visa, no proof of accommodation is required at any stage. You can
 Unfortunately, No. :sweat: If you call VFS, they will say that application is pending with the consulate. And if you call the consulate ( if your call gets connected ), then they will either ask you to wait for the update through e-mail, or they will say that application is pending with the foreigners office in Germany. So the only option left for you is to wait for the email from the consulate.
 
 
-Sponsored - Want to transfer money from EUR to INR ? Try [TransferWise](https://transferwise.com/u/chirags73)
+Sponsored - Want to transfer money from EUR to INR ? Try [TransferWise](https://tinyurl.com/transferw)
 
 
 ### 11. I got an email from consulate saying "Your application has been decided upon. Please collect your passport". What does this mean ?
@@ -89,7 +89,7 @@ If the consulate thinks that they need to verify it, and you get an email asking
 Secondly, Mumbai consulate mentions that you should carry your wedding album on the day of interview. I would recommend taking it for other consulates as well, in case they ask. This shows that your marriage rituals were actually performed.
 
 
-Sponsored - Want to transfer money from INR to EUR ? Try [InstaRem](https://www.instarem.com/invite/G3IoLu)
+Sponsored - Want to transfer money from INR to EUR ? Try [InstaRem](https://tinyurl.com/instarem)
 
 
 ### 5. How long will it take to get the visa approval ?
