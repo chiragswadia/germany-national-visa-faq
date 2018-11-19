@@ -1,6 +1,6 @@
 # Germany National Visa FAQs :india: :de: 
 
-_Last Updated Date - 18th November 2018_
+_Last Updated Date - 19th November 2018_
 
 I see a lot of repeated queries related to Employment Visa every day in different Facebook groups, Linkedin etc which I thought can be put together at a single place so that it can benefit people who are looking for some information. This document is mainly for employment visa, but I will also include few common questions related to **family re-union** visa as well.
 
@@ -51,6 +51,7 @@ Deputation order is only required if you are moving within the same company to G
 ### 9. Do I need to show proof of accommodation for employment visa application ?
 
 For employment visa, no proof of accommodation is required at any stage. You can just mention your office address in the application form.
+Note - This varies from case to case on the consulate or the visa officer who is working on your application. Few applicants have been asked for proof of accommodation or a letter from the employer that accommodation will be taken care of when the applicant moves to Germany.
 
 
 ### 10. Is there any way to find the status of my visa application ?
@@ -70,15 +71,14 @@ In 95% of the cases, this means that your visa has been stamped on the passport.
 
 *main applicant in the below answers means the person who applied for employment visa or is already living in germany on work permit / blue card
 
-### 1. What is the difference between Dependent and Family-Reunion visa ?
+### 1. Is there any difference between Dependent and Family-Reunion visa ?
 
-This is one the most common question that comes to people's mind when they see these two different categories for booking an appointment slot for national visa, and also their slot availability are different. From what I understand, you need to book a slot for dependent visa when the main applicant has not moved ( or not already living ) to Germany, and you plan to travel together. Family Reunion is a case when the main applicant is already residing in Germany.
-In addition to my above point regarding dependent visa, even if you are not planning to travel together ( for eg. Spouse will travel 1 month after the main applicant ), then in that case as well you'll need to book a slot for dependent visa.
-Note - In any case, in the application form, there is on option for Dependent visa category, so you need to tick Family Re-Union.
+This is the most common question that comes to people's mind before booking an appointment slot because there has been lots of blogs posts / forums which mentions Dependent Visa. However, If you see the [Visa Application form](https://www.auswaertiges-amt.de/blob/207850/f9342033f2933dc05da54151efe283db/aufenthalten-data.pdf), you will find that for purpose of stay, there will be only Family Reunion category, and no option as such for Dependent. So irrespective of whether the main applicant is in Germany or still in India, the above point holds true.
 
 
 ### 2. How can I provide proof of accommodation / payslips for dependent visa interview if we are travelling together ?
 This is not required when the main applicant has not moved to Germany. Only signed work contract is sufficient. In the application form, in the address section, you can write the Germany's office address.
+Note - This varies from case to case on the consulate or the visa officer who is working on your application. Few applicants have been asked for proof of accommodation or a letter from the employer that accommodation will be taken care of when the applicant moves to Germany.
 
 
 ### 3. Do I need to take the document verification DD along with the visa fees DD ?
